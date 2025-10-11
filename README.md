@@ -7,3 +7,7 @@ react-native/           <-- raíz del repo
 └─ misegundaApp/        <-- app 2
 
 Comando para iniciar la App: npx @react-native-community/cli init MyFirstApp --pm npm
+
+
+metro: npx react-native start
+build: npx reacnative run-android (falló por exceso de caracteres en la ruta)
