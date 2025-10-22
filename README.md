@@ -1,4 +1,6 @@
 ```text
+La indea de este repo es que contenga varios proyectos de Apps, al estilo de monorepo.
+
 react-native/           <-- raíz del repo
 │
 ├─ react-fundation/     <-- solo scripts, utilidades, ejercicios de estudio
